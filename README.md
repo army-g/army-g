@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @army-g
 - 👀 I’m interested in black magic
 - 🌱 I’m currently learning to summon good code
-- 💞️ I’m looking to collaborate on fixing the bugs of universe
+- 💞️ I’m looking to collaborate on fixing the bugs of the universe
 - 📫 How to reach me ...? call my name twice in the dark
 
 <!---
